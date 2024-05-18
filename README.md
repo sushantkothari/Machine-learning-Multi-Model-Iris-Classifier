@@ -1,7 +1,5 @@
 # Machine-learning-Multi-Model-Iris-Classifier
 
-# Multimodal Iris Classifier
-
 A machine learning project that classifies the famous Iris dataset using multiple models.
 
 ## Overview
