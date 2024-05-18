@@ -42,27 +42,15 @@ To run the classifier, execute the Jupyter notebook:
 ## Models
 
 The following models are implemented in this project:
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
-- Decision Tree
 - Random Forest
-- Neural Network
+- Gradient Boosting
+- Support Vector Machine (SVM)
+- XGBoost
+- LightGBM
+- K-Nearest Neighbors (KNN)
+- Stacking Classifier
 
 Each model is evaluated based on accuracy, precision, recall, and F1-score.
-
-## Results
-
-The performance of each model is summarized in the following table:
-
-| Model             | Accuracy | Precision | Recall | F1-score |
-|-------------------|----------|-----------|--------|----------|
-| Logistic Regression | 0.97     | 0.96      | 0.97   | 0.96     |
-| K-Nearest Neighbors | 0.96     | 0.95      | 0.96   | 0.95     |
-| SVM               | 0.98     | 0.97      | 0.98   | 0.97     |
-| Decision Tree     | 0.95     | 0.94      | 0.95   | 0.94     |
-| Random Forest     | 0.97     | 0.96      | 0.97   | 0.96     |
-| Neural Network    | 0.98     | 0.97      | 0.98   | 0.97     |
 
 ## Contributing
 
